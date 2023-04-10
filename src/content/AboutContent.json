@@ -1,0 +1,16 @@
+{
+  "title": "Light, fast & responsive",
+  "text": " Trusted by leading brands and startups so, you can healthy start with us.",
+  "section": [
+    {
+      "title": "Why Us?",
+      "content": "Our dedicated support team works 24/7 to resolve all of your queries over the phone or email, no matter where you are located.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "It's a system built for you",
+      "content": "We make it easy for you to work, whether you run your own business or work for an agency, small business, or enterprise company.",
+      "icon": "notes.svg"
+    }
+  ]
+}
